@@ -41,7 +41,7 @@ make
 ### Run
 input
 ```bash
-./
+./my_rpg
 ```
 
 ## Title screen
