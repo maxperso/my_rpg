@@ -49,3 +49,9 @@ input
 
 ## How to play ?
 ![](screenshot/how_to_play.png)
+
+## Credit
+### made with
+[Mathis LEGRAND](https://github.com/MathisLegrandGit)
+[Virgile ARNOUX](https://github.com/Virgile0110)
+[Maxime GREGOIRE](https://github.com/maxperso)
