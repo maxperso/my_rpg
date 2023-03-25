@@ -52,6 +52,7 @@ input
 
 ## Credit
 ### made with
-[Mathis LEGRAND](https://github.com/MathisLegrandGit)
-[Virgile ARNOUX](https://github.com/Virgile0110)
-[Maxime GREGOIRE](https://github.com/maxperso)
+<br />
+- [Mathis LEGRAND](https://github.com/MathisLegrandGit)
+- [Virgile ARNOUX](https://github.com/Virgile0110)
+- [Maxime GREGOIRE](https://github.com/maxperso)
